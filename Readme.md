@@ -1,3 +1,4 @@
+## dependence
 * require node
 * require node-gyp
 * require python
